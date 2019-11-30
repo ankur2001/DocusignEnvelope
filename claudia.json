@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "claudia30nov-executor",
+    "name": "claudia30nov",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "ub1e4o9bn1",
+    "module": "src/app"
+  }
+}

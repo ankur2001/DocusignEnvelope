@@ -1,0 +1,15 @@
+{
+  "name": "claudia30nov",
+  "version": "1.0.0",
+  "description": "claudia30Nov",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "claudia-api-builder": "^4.1.2",
+    "moment": "2.24.0"
+  }
+}
