@@ -1,7 +1,7 @@
 {
-  "name": "claudia30nov",
+  "name": "docusignsendenv",
   "version": "1.0.0",
-  "description": "claudia30Nov",
+  "description": "docusignSendEnv",
   "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,18 @@
   "license": "ISC",
   "dependencies": {
     "claudia-api-builder": "^4.1.2",
-    "moment": "2.24.0"
-  }
+    "moment": "2.24.0",
+    "docusign-esign": "^5.1.0",
+    "express": "^1.0.8",
+    "js-yaml": "^3.13.1",
+    "request": "^2.88.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankur2001/DocusignEnvelope.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ankur2001/DocusignEnvelope/issues"
+  },
+  "homepage": "https://github.com/ankur2001/DocusignEnvelope#readme"
 }

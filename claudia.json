@@ -1,11 +1,11 @@
 {
   "lambda": {
-    "role": "claudia30nov-executor",
-    "name": "claudia30nov",
+    "role": "docusignsendenv-executor",
+    "name": "docusignsendenv",
     "region": "us-east-1"
   },
   "api": {
-    "id": "ub1e4o9bn1",
+    "id": "qkkh9j9gjj",
     "module": "src/app"
   }
 }
