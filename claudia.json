@@ -2,7 +2,7 @@
   "lambda": {
     "role": "docusignsendenv-executor",
     "name": "docusignsendenv",
-    "region": "us-east-1"
+    "region": "us-west-2"
   },
   "api": {
     "id": "qkkh9j9gjj",
