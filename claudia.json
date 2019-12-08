@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "docusignsendenv-executor",
+    "name": "docusignsendenv",
+    "region": "us-west-2"
+  },
+  "api": {
+    "id": "9o94j3l3d5",
+    "module": "src/app"
+  }
+}
