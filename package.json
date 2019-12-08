@@ -11,7 +11,7 @@
   "dependencies": {
     "claudia-api-builder": "^4.1.2",
     "docusign-esign": "^5.1.0",
-    "express": "^1.0.8",
+    "express": "^4.17.1",
     "js-yaml": "^3.13.1",
     "moment": "2.24.0",
     "request": "^2.88.0"
